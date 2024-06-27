@@ -4,9 +4,9 @@
 [AskVinny](https://askvinny.co.uk) is a cutting-edge Property Maintenance Solution designed to streamline and automate the tasks involved in property maintenance using advanced AI technology. This platform helps users efficiently manage their property maintenance needs, reducing manual effort and improving overall efficiency.
 
 ## The Task
-The current task involves enhancing the user interaction within the application by allowing users to submit their email addresses. This functionality is part of a broader feature set aimed at improving communication and management capabilities within the app. The implementation details are specified in the `src/App.tsx` file, where an email input field and a submission button are added to the user interface.
+The interview task involves enhancing the user interaction within the application by allowing users to submit their email addresses. This functionality is part of a broader feature set aimed at improving communication and management capabilities within the app. The implementation details are specified in the `src/App.tsx` file, where an email input field and a submission button are added to the user interface.
 
-Candidates are required to record their resolution to this problem in real time, and it's expected to take under 45 minutes. Please speak outloud whilst solving so we can understand your thought process. 
+Candidates are required to record their resolution to this problem in real time, and it's expected to take under 45 minutes. Please speak outloud whilst solving so we can understand your thought process. (Common screen recording tools like Loom will suffice, contact the hiring manager if you need help with this.)
 
 ## Build Scripts and Repository Interaction
 This project is set up using React and TypeScript, and it utilizes Vite as the build tool. Here are some common scripts you can use to interact with the repository:
