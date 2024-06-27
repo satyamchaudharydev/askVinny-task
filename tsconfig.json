@@ -3,6 +3,12 @@
         "./src/**/*"
     ],
     "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+        "@/*": [
+            "./src/*"
+        ]
+        },
         "strict": true,
         "esModuleInterop": true,
         "lib": [
